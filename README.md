@@ -1,2 +1,6 @@
-# Projeto-de-computador-de-64bits
-Este projeto visa a elaboração e construção de um computador de 64bits, usarei um projeto ja existente como base para criar meu proprio projeto, além de documentar todo o processo de desenvolvimento, deixando claro que o foco será aprender bit a bit como o computador moderno funciona tudo a nível de hardware.
+# Projeto-de-Processador-de-64bits
+Este projeto visa a elaboração e construção de um processador de 64bits, com o intuito de aprender e ensinar sobre os conceitos mais profundos da arquitetura dos processadores modernos, entender o PORQUÊ dos circuitos lógicos e aritméticos serem como são além de aprender sobre expansão, interconexões, reaproveitamento de blocos básicos, além da modificação para aplicações específicas, tratarei sobre funções lógicas e aritméticas ensinando como criar as equações matemáticas que resolvem um problema computacional, ensinarei tbm como transformar essas equações em circuitos reais e testaremos seu funcinamento.
+
+  Este projeto foi criado e está sob a responsabilidade do:
+    Acadêmico de Engenharia Elétrica: Antony Gabriel
+    Macapá - Ap - 2025
